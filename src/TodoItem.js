@@ -20,7 +20,7 @@ const TodoItemBlock=styled.div`
     align-items:center;
     padding-top:12px;
     padding-botton:12px;
-    &:hober{
+    &:hover{
         ${Remove}{
             display:initial;
         }
